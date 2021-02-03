@@ -1,5 +1,8 @@
 # demo-project
 
+## Installing python packages
+```pip install -r requirements.txt```
+
 ## Running the broker
 * Run the broker locally: `mosquitto -c mosquitto.conf -v`
 * ...or with Docker:
