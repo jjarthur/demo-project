@@ -1,4 +1,4 @@
-# demo-project
+# mqtt-example-project
 
 ## Installing python packages
 ```pip install -r requirements.txt```
